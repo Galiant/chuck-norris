@@ -1,6 +1,6 @@
 # Chuck Norris
 
-Simple Chuck Norris Joke Generator.
+Simple Chuck Norris joke generator.
 
 ## Technologies
 
